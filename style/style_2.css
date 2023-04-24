@@ -1,0 +1,36 @@
+.nav_main {
+    background-color: rgb(70, 64, 64);
+
+}
+
+.navbar-brand {
+    color: white;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav-item {
+    display: flex;
+    justify-content: flex-end;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.copyright {
+    text-align: center;
+    height: 100px;
+    background-color: rgb(70, 64, 64);
+    color: white;
+}

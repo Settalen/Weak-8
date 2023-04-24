@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.text {
+    display: grid;
+    grid-template-columns: (auto-fit, repeat(2, 1fr));
+    justify-content: center;
+
+}
+
+h1 {
+
+
+    font-family: 'Intro ';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 120%;
+    color: #000000;
+    line-height: 120%;
+
+}
+
+.vr_mini {
+    font-family: 'Roboto Slab';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 160%;
+}
+
+.image {
+    display: flex;
+    justify-content: flex-end;
+    align-items: start;
+    width: 1096.34px;
+    height: 724.31px;
+    left: 657px;
+    top: 128.11px;
+}

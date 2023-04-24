@@ -1,0 +1,31 @@
+.col {
+    text-align: center;
+    color: white;
+    background-color: rgb(3, 127, 131);
+}
+
+.row {
+    gap: 10px;
+}
+
+
+.flex {
+    display: flex;
+    height: 100px;
+    gap: 10px;
+}
+
+.gallery {
+    width: 50%;
+}
+
+.two_col {
+    display: flex;
+    flex-flow: column wrap;
+    gap: 10px;
+    width: 50%;
+}
+
+.gall {
+    height: 100%;
+}
